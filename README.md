@@ -1,6 +1,6 @@
 # Hi There! 👋
 ## I'm Nolo Maleka. I'm an Aspiring Software Developer and DevOps Engineer based in Pretoria
-- I’m interested in frontend development, business science and cloud computing
+- I’m interested in frontend development, systems analysis and cloud computing
 - I am a 2nd year software development student and currently learning frontend development mainly focusing on building and deploying web based applications.
 
 # How to reach me ...  📫 
