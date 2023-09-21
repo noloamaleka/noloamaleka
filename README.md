@@ -1,7 +1,7 @@
 # Hi There! 👋
-## I'm Nolo Maleka. I'm an Aspiring Software Developer and DevOps Engineer based in Pretoria
-- I’m interested in frontend development, systems analysis and cloud computing
-- I am a 2nd year software development student and currently learning frontend development mainly focusing on building and deploying web based applications.
+## I'm Nolo Maleka. I'm an Aspiring Software Developer/Business Analyst and DevOps Engineer based in Pretoria
+- I’m interested in database development, frontend development with a particular focus on web-based application
+- I am currently learning software testing focussing on both manual and automation testing.
 
 # How to reach me ...  📫 
 Email: noloabelmaleka@gmail.com
