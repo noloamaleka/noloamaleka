@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lehlohonolo Maleka</h1>
-<h3 align="center">An Aspiring Software Developer from South Africa</h3>
+<h3 align="center">An Aspiring Software Developer and Business Analyst from South Africa</h3>
 
-<img align="right" alt= "image" width="400" src ="https://w7.pngwing.com/pngs/404/103/png-transparent-iron-man-chibi-superhero-marvel-comics-iron-ironman-chibi-illustration-comics-electronics-avengers.png">
-
-- 🌱 I’m currently learning **SAP, salesforce and cloud computing. I am also focusing on sharpening my programming and frontend development skills**
+- 🌱 I’m currently learning **SAP, salesforce and cloud computing. I am also focusing on sharpening technical expertise through gaining programming and frontend development skills**
 
 - 👨‍💻 All of my projects are available at: [github.com/noloamaleka](github.com/noloamaleka)
 
@@ -11,7 +9,7 @@
 
 - 📫 How to reach me: **noloabelmaleka@gmail.com**
 
-- ⚡ Fun fact: **I am a competitive gamer and having me on your team for 30 seconds board game is a guaranteed win**
+- ⚡ Fun fact: **I am a competitive gamer and enjoy playing 30 seconds**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
