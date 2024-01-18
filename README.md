@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lehlohonolo Maleka</h1>
-<h3 align="center">I am a multidisciplinary Software Development Student from South Africa</h3>
+<h3 align="center">I am a Multidisciplinary Software Development Student and Data Enthusiast from South Africa</h3>
 
 - 🌱 I’m currently learning **cloud computing. I am also focusing on sharpening my data skills, programming skills, and frontend development skills**
 
