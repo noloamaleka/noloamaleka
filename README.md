@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at: [github.com/noloamaleka](github.com/noloamaleka)
 
-- 💬 Ask me about **database development, sql, software testing, software methodologies**
+- 💬 Ask me about **frontend development, sql, software testing, software methodologies**
 
 - 📫 How to reach me: **noloabelmaleka@gmail.com**
 
