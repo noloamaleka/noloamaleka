@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lehlohonolo Maleka</h1>
 <h3 align="center">I am a Software Development Student from South Africa</h3>
 
-- 🌱 I’m currently learning **cloud computing. I am also focusing on sharpening my data skills, programming skills, and frontend development skills**
 
 - 👨‍💻 All of my projects are available at: [github.com/noloamaleka](github.com/noloamaleka)
 
@@ -13,6 +12,8 @@
 - Augmented Reality
 
 - DevOps
+
+- Product Development
 
 - IOT
 
